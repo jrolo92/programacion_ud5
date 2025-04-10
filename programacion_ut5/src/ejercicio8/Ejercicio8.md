@@ -1,7 +1,7 @@
 
 # Ejercicio 8
 
-| *equals()*                     | 
+| *equals()*                   | 					|
 | ---------------------------- | ---------------------------------------- |
 | ¿Para qué sirve?             | Compara el contenido de dos objetos |
 | ¿De dónde sale?              | De la clase Object |
@@ -10,7 +10,7 @@
 | Valor de retorno             | Booleano |
 
 
-| *compareTo()*                  |
+| *compareTo()*                  |						|
 | ---------------------------- | ---------------------------------------------------------------------- |
 | ¿Para qué sirve?             | Compara el contenido de dos objetos pero para ver si es mayor o menor |
 | ¿De dónde sale?              | De la interfaz Comparable, por tanto hay que implementarla. |
