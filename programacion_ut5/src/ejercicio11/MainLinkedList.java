@@ -46,10 +46,11 @@ public class MainLinkedList {
 		System.out.println("Introduce una nueva tarea urgente: ");
 		String tareaUrgente = sc.nextLine();
 		colaTareas.addFirst(tareaUrgente);
-
 		
 //	7. Mostrar el estado final de la cola:
 		mostrarTareas(colaTareas);
+		
+		sc.close();
 	}
 
 	public static void mostrarTareas(List<String> lista) {

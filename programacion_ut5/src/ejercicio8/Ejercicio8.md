@@ -1,8 +1,8 @@
 
 # Ejercicio 8
 
-| *equals()*                     |
-| ---------------------------- |
+| *equals()*                     | 
+| ---------------------------- | ---------------------------------------- |
 | ¿Para qué sirve?             | Compara el contenido de dos objetos |
 | ¿De dónde sale?              | De la clase Object |
 | Relacion con hashCode()      | Es necesario sobrescribir el hashcode cuando se cambien los atributos que va a tener en cuenta el equals() |
@@ -11,7 +11,7 @@
 
 
 | *compareTo()*                  |
-| ---------------------------- |
+| ---------------------------- | ---------------------------------------------------------------------- |
 | ¿Para qué sirve?             | Compara el contenido de dos objetos pero para ver si es mayor o menor |
 | ¿De dónde sale?              | De la interfaz Comparable, por tanto hay que implementarla. |
 | Relacion con equals()        | Ambos deben tener los mismos atributos. |
