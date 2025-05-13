@@ -1,4 +1,3 @@
-# ![ref1]![ref1]![ref1]![ref1]**Portfolio: TAD**
 **PROGRAMACIÓN UD-5**
 
 **Javier Rodríguez**
