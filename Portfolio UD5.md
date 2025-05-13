@@ -53,7 +53,7 @@
 
 
 
-Notas de clase:
+### Notas de clase:
 
 **Ejercicio 4.**
 
